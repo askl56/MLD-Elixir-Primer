@@ -1,0 +1,9 @@
+#### joe made this: http://goel.io/joe
+
+#####=== Elixir ===#####
+
+/_build
+/deps
+erl_crash.dump
+*.ez
+
