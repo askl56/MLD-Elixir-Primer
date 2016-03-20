@@ -32,7 +32,7 @@ fn (x) -> x end
 
 # We can do the same thing too with the shorter syntax:
 
-# iex(2)> (&(&1 + &2 * &3)).(2, 6, 8)
+(&(&1 + &2 * &3)).(2, 6, 8)
 # 50
 # And just to prove that the two syntaxes are the same, we can do the following:
 
