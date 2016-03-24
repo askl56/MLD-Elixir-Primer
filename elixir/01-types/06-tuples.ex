@@ -5,7 +5,7 @@
 
 # Furthermore, tuples can hold any value:
 # iex(1)> tuple = {1, 2, :ok, "hello"}
-# {1, 2, :ok, "hello}
+# {1, 2, :ok, "hello"}
 
 # However, the difference between tuples and lists is that tuples store elements contiguously in memory.
 # Lists are inherently linked, and thus, accessing an element of a list by index is a slow, order n time, operation.
